@@ -6,5 +6,6 @@ A decade shipping production software to a million users taught me more about wh
 systems fail than any course ever did. Currently doing R&D on agentic systems that 
 take a ticket from input to tested, reviewed, committed code with no human in the loop.
 
-[dontcodethisathome.com](https://dontcodethisathome.com) · 
-[LinkedIn](https://linkedin.com/in/erikperttu)
+[DontCodeThisAtHome.com](https://dontcodethisathome.com) · 
+[LinkedIn](https://linkedin.com/in/erikperttu) · 
+[Twitter](https://x.com/ErikPerttu)
